@@ -1,0 +1,16 @@
+Hi
+
+There is a bug in the settings for the tabs which show top right in the editor.
+I have found it in two of my eight joomla sites - do not want to mess the other six !!!
+
+If the Editor Toggle Label is set, then the "code" tab disappears
+If the Preview Tab is set to off, then the "code" tab disappears
+
+It does not seem possible to restore the status quo
+Re-enabling the Preview Tab restores it, but NOT the "code" tab
+
+However the on/off icon at the top left of the editor id unaffected.
+
+I comment that having two ways to do the same thing is never a good idea
+
+Richard
